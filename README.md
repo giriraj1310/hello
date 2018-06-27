@@ -1,1 +1,1 @@
-# hello
+Hello, this is a readme- edit branch which is created off the master branch. Here we will make some changes and then commit those changes into this branch. Hope you all can learn the basic fundamentals of how to use GitHub via thi :) .
